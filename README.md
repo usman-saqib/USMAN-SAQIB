@@ -138,20 +138,22 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: flex-start; margin: 1rem 0 2rem 0;">
   
+  <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">
+
   <!-- Project 1: Kashmiri Apple Leaf Disease Detection -->
   <div style="flex: 1 1 280px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 24px; padding: 1.2rem; border: 1px solid rgba(56,189,248,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.2s ease;">
     <h3 style="margin: 0 0 0.3rem 0; font-size: 1.1rem; color: #38bdf8;">
       🍃 Kashmiri Apple Leaf Disease Detection
     </h3>
     <p style="margin: 0.5rem 0; font-size: 0.85rem; color: #cbd5e1; line-height: 1.4;">
-      Deep learning model to detect diseases in apple leaves. Built with TensorFlow, deployed using FastAPI.
+      This project automatically detects and classifies diseases in Kashmiri apple leaves using a machine learning model. Farmers can upload a leaf image and receive real-time identification of healthy leaves, apple rot, leaf blotch, or scab – along with treatment suggestions. Built with TensorFlow and Streamlit, it aims to make smart agriculture.
     </p>
-    <div style="margin: 0.5rem 0; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">React</span>
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">Node.js</span>
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">MongoDB</span>
+    <div style="margin: 0.75rem 0 0.5rem 0; display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(56,189,248,0.15); backdrop-filter: blur(2px); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #7dd3fc; border: 0.5px solid rgba(56,189,248,0.4); transition: all 0.2s ease;">🧠 TensorFlow</span>
+      <span style="background: rgba(56,189,248,0.15); backdrop-filter: blur(2px); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #7dd3fc; border: 0.5px solid rgba(56,189,248,0.4); transition: all 0.2s ease;">🤗 Hugging Face</span>
+      <span style="background: rgba(56,189,248,0.15); backdrop-filter: blur(2px); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #7dd3fc; border: 0.5px solid rgba(56,189,248,0.4); transition: all 0.2s ease;">⚡ Streamlit</span>
     </div>
-    <a href="#" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem;">🔗 View Project →</a>
+    <a href="https://github.com/usman-saqib/Kashmiri-Apple-Leaf-disease-Detection-" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem; display: inline-block; margin-top: 6px;">🔗 View Project →</a>
   </div>
   
   <!-- Project 2: Brain Tumor Detection System -->
@@ -160,42 +162,20 @@
       🧠 Brain Tumor Detection System
     </h3>
     <p style="margin: 0.5rem 0; font-size: 0.85rem; color: #cbd5e1; line-height: 1.4;">
-      CNN-based classification of MRI scans to detect tumors. Achieved high accuracy with transfer learning.
+      NeuroScan AI – An advanced web application for detecting and classifying brain tumors in MRI scans using MobileNetV2 deep learning architecture with Grad-CAM explainability. Features include multi-class classification, interactive heatmaps, PDF reports, user authentication, and analytics dashboard.
     </p>
-    <div style="margin: 0.5rem 0; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">Next.js</span>
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">TypeScript</span>
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">PostgreSQL</span>
+    <div style="margin: 0.75rem 0 0.5rem 0; display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="background: rgba(168,85,247,0.15); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #c084fc; border: 0.5px solid rgba(168,85,247,0.4); transition: all 0.2s ease;">🧬 CNN</span>
+      <span style="background: rgba(168,85,247,0.15); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #c084fc; border: 0.5px solid rgba(168,85,247,0.4); transition: all 0.2s ease;">🔥 Grad-CAM</span>
+      <span style="background: rgba(168,85,247,0.15); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #c084fc; border: 0.5px solid rgba(168,85,247,0.4); transition: all 0.2s ease;">🤖 Deep Learning</span>
     </div>
-    <a href="#" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem;">🔗 View Project →</a>
+    <a href="https://github.com/usman-saqib/Brain-Tumor-Detection-System" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem; display: inline-block; margin-top: 6px;">🔗 View Project →</a>
   </div>
-  
-  <!-- Project 3: Fake News Detection System -->
-  <div style="flex: 1 1 280px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 24px; padding: 1.2rem; border: 1px solid rgba(56,189,248,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.2s ease;">
-    <h3 style="margin: 0 0 0.3rem 0; font-size: 1.1rem; color: #38bdf8;">
-      📰 Fake News Detection System
-    </h3>
-    <p style="margin: 0.5rem 0; font-size: 0.85rem; color: #cbd5e1; line-height: 1.4;">
-      NLP-based classifier to identify fake news articles. Uses TF-IDF and logistic regression, deployed on AWS.
-    </p>
-    <div style="margin: 0.5rem 0; display: flex; flex-wrap: wrap; gap: 6px;">
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">Python</span>
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">Django</span>
-      <span style="background: #1e3a5f; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; color: #90e0ff;">AWS</span>
-    </div>
-    <a href="#" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem;">🔗 View Project →</a>
-  </div>
+
+</div>
   
 </div>
 
-<style>
-  /* subtle hover effect */
-  div[style*="linear-gradient(145deg, #0f172a, #1e293b)"]:hover {
-    transform: translateY(-5px);
-    border-color: rgba(56, 189, 248, 0.6);
-    transition: all 0.25s ease;
-  }
-</style>
 
 
 ## 🏆 Certifications & Achievements
@@ -212,7 +192,7 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/usman-saqib)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/usman_saqib)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge)](file:///C:/Users/Saqib/Desktop/Protflio/Black%20and%20light%20green.html)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](usmansaqib1205@gmail.com)
 
 </div>
