@@ -174,6 +174,23 @@
     <a href="https://github.com/usman-saqib/Brain-Tumor-Detection-System" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem; display: inline-block; margin-top: 6px;">🔗 View Project →</a>
   </div>
 
+ 
+<!-- Project: Fake News Detector -->
+<div style="flex: 1 1 280px; background: linear-gradient(145deg, #0f172a, #1e293b); border-radius: 24px; padding: 1.2rem; border: 1px solid rgba(56,189,248,0.2); box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.2s ease;">
+  <h3 style="margin: 0 0 0.3rem 0; font-size: 1.1rem; color: #38bdf8;">
+    📰 Fake News Detector
+  </h3>
+  <p style="margin: 0.5rem 0; font-size: 0.85rem; color: #cbd5e1; line-height: 1.4;">
+    An AI-powered Fake News Detection System that analyzes news articles and classifies them as real or fake using Machine Learning and Natural Language Processing (NLP). Designed to help identify misleading information and support news verification.
+  </p>
+  <div style="margin: 0.75rem 0 0.5rem 0; display: flex; flex-wrap: wrap; gap: 8px;">
+    <span style="background: rgba(168,85,247,0.15); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #c084fc; border: 0.5px solid rgba(168,85,247,0.4); transition: all 0.2s ease;">🤖 Machine Learning</span>
+    <span style="background: rgba(168,85,247,0.15); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #c084fc; border: 0.5px solid rgba(168,85,247,0.4); transition: all 0.2s ease;">📝 NLP</span>
+    <span style="background: rgba(168,85,247,0.15); padding: 4px 12px; border-radius: 30px; font-size: 0.7rem; font-weight: 500; color: #c084fc; border: 0.5px solid rgba(168,85,247,0.4); transition: all 0.2s ease;">🐍 Python</span>
+  </div>
+  <a href="https://github.com/usman-saqib/fake-news-detector" style="color: #2dd4bf; text-decoration: none; font-size: 0.8rem; display: inline-block; margin-top: 6px;">🔗 View Project →</a>
+</div>
+
 </div>
   
 </div>
