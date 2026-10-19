@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="USMAN SAQIB" />
 
 <a href="https://github.com/usman-saqib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=AI+Engineer+%7C+Machine+%26+Deep+Learning+%7C+NLP+%26+CV" alt="AI Engineer | Machine & Deep Learning | NLP & CV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=AI+Engineer+%7C+Machine+%26+Deep+Learning+%7C+NLP+%26+CV" alt="AI Engineer|Machine & Deep Learning|NLP & CV" />
 </a>
 
 <br/>
