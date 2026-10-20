@@ -199,11 +199,17 @@ An ML-based Heart Disease Prediction System that analyzes 11 medical input attri
 
 <h2 align="center">🏆 Certifications & Achievements</h2>
 
+
 <div align="center">
 
+![Virtual Soft AI/ML Internship](https://img.shields.io/badge/AI%2FML_Internship-Virtual_Soft-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=1E293B)
+
 ![Summer IT-Internship](https://img.shields.io/badge/Summer_IT_Internship-FFC_Goath_Machhi-8B5CF6?style=for-the-badge&logo=internetexplorer&logoColor=white&labelColor=1E293B)
+
 ![Basics of ML Algorithms](https://img.shields.io/badge/Basics_of_ML_Algorithms-Uniathena-06B6D4?style=for-the-badge&logo=python&logoColor=white&labelColor=1E293B)
+
 ![Data Science & Analytics](https://img.shields.io/badge/Data_Science_%26_Analytics-HP_Life-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1E293B)
+
 ![Deep Learning Specialization](https://img.shields.io/badge/Deep_Learning_Specialization-DeepLearning.AI-06B6D4?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1E293B)
 
 </div>
@@ -223,7 +229,7 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/usman-saqib)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/usman_saqib)
 <!-- TODO: replace the Portfolio link below with your live portfolio URL (the old link pointed to a file on your PC) -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge)](https://usman-saqib.github.io/Usman-Portfolio/))
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:usmansaqib1205@gmail.com)
 
 <br/>
