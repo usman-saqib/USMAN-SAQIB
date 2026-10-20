@@ -175,6 +175,22 @@ An AI-powered Fake News Detection System that analyzes news articles and classif
 
 </td>
 </tr>
+
+<tr>
+<td>
+
+### ❤️ Heart Disease Prediction System
+
+An ML-based Heart Disease Prediction System that analyzes 11 medical input attributes, including age, sex, chest pain type, blood pressure, cholesterol, and maximum heart rate, to predict the likelihood of heart disease using Machine Learning.
+
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-8B5CF6?style=flat-square) ![Healthcare AI](https://img.shields.io/badge/-Healthcare_AI-8B5CF6?style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/-View_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usman-saqib/Heart-Disease-Prediction)
+
+</td>
+</tr>
+</table>
+
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2" width="100%" alt="" />
